@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Accelerometer</string>
+    <string name="textview">TextView</string>
+    <string name="_0_0">0.0</string>
+    <string name="read_frequency">Read Frequency:</string>
+    <string name="fourier_transformed_magnitude">Fourier Transformed Magnitude</string>
+    <string name="window_size">Window Size:</string>
+    <string name="title_activity_fftgraph">FFTGraph</string>
+</resources>
