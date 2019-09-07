@@ -6,4 +6,5 @@
     <string name="fourier_transformed_magnitude">Fourier Transformed Magnitude</string>
     <string name="window_size">Window Size:</string>
     <string name="title_activity_fftgraph">FFTGraph</string>
+
 </resources>
